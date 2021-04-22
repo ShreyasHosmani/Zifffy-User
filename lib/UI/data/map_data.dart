@@ -1,0 +1,1 @@
+var mapOption = 0;

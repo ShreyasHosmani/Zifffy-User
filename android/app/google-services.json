@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "487480969812",
+    "project_id": "dabbawala-user",
+    "storage_bucket": "dabbawala-user.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:487480969812:android:fd4d7d31c3d256eed2fbc1",
+        "android_client_info": {
+          "package_name": "com.user.dabbawala"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "487480969812-6hdf1oga7fvnb8oruefceigfhekrv7vu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.user.dabbawala",
+            "certificate_hash": "f3e62fead3c4ca0749bc2c26719967892a9099d8"
+          }
+        },
+        {
+          "client_id": "487480969812-ituqqj71cso1avaggsm70cu4bgsqt22p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.user.dabbawala",
+            "certificate_hash": "935a06abbd5221894d531c3ee3db58f2333a0d7d"
+          }
+        },
+        {
+          "client_id": "487480969812-rkjoblqtbou6o5u8qc1ce80i7c3gmsn5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.user.dabbawala",
+            "certificate_hash": "89ab23f101e4cecab70d303450ba5a7675b99b37"
+          }
+        },
+        {
+          "client_id": "487480969812-nn2b7nk91gs98llerlbk88663oofjqn8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-oFvbN4CipnUTTE-TPKbSLrp4ACTsgSw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "487480969812-nn2b7nk91gs98llerlbk88663oofjqn8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
